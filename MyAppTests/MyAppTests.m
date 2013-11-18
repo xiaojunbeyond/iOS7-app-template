@@ -2,8 +2,8 @@
 //  MyAppTests.m
 //  MyAppTests
 //
-//  Created by Denis Zamataev on 11/18/13.
-//  Copyright (c) 2013 KMMEDIA. All rights reserved.
+//  Created by Me on 11/18/13.
+//  Copyright (c) 2013 MyCompany. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
